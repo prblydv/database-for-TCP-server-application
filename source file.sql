@@ -6,8 +6,8 @@
 *
 *
 * Author: SINGH, PRABAL
-* Student ID Number: 2327029
-* Institutional mail prefix: PXP131
+
+* IMail prefix: PXP131
 */
 
 
@@ -29,7 +29,7 @@
 
 -- The first time you login to execute this file with \i it may
 -- be convenient to change the working directory.
-\cd 'C:/Users/PRABAL YADAV/Desktop/assignment 2 fsad'
+\cd './assignment 2 fsad'
   -- In PostgreSQL, folders are identified with '/'
 
 
